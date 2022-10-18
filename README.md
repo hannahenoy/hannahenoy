@@ -1,25 +1,27 @@
-👩🏽‍💻 Hi, I’m Hannah, a full stack software engineer + tetris king
-🌱 I’m currently learning OOP
-🔍 Currently interested in AI art & the metaverse
-🗣 Ask me about my RC Demo Day Project
-
-🤝 Open to collaborating on creative projects + anything community oriented
-👀 Please check out what I've been working on + get in touch with me
-💞️ hannahenoy.netlify.app
-📫 hannahenoy@gmail.com
-
+👩🏽‍💻 Hi, I’m Hannah, a full stack software engineer + tetris king<br>
+🌱 I’m currently learning OOP<br>
+🔍 Currently interested in AI art & the metaverse<br>
+🗣 Ask me about my RC Demo Day Project<br>
+<br><br>
+🤝 Open to collaborating on creative projects + anything community oriented<br>
+👀 Please check out what I've been working on + get in touch with me<br>
+💞️ hannahenoy.netlify.app<br>
+📫 hannahenoy@gmail.com<br>
+<br><br>
 <center>
-<img src="https://i.postimg.cc/63qTGMNK/77535732741737-5801f2caa2f08.jpg">
+<img src="https://i.postimg.cc/63qTGMNK/77535732741737-5801f2caa2f08.jpg"
+     width="400" 
+     height="500" />
 <br>
-Skills:
-- HTML/CSS
-- JavaScript
-- Node.js
-- JSON
-- React
-- Mongo.db
-- OOP
-- Web accessibility
+Skills:<br>
+- HTML/CSS<br>
+- JavaScript<br>
+- Node.js<br>
+- JSON<br>
+- React<br>
+- Mongo.db<br>
+- OOP<br>
+- Web accessibility<br>
 </center>
 <!---
 hannahenoy/hannahenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
