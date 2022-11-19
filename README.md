@@ -1,8 +1,8 @@
 <p align="center">
 
-<img src="https://i.postimg.cc/k52MwBB3/Screen-Shot-2022-10-17-at-9-14-18-PM.png" height="120"/>
+<img src="https://i.imgur.com/G4oiARy.png" height="120"/>
 <br><br>
-🌱 I’m currently learning MongoDB<br>
+🌱 I’m currently learning MVC and React<br>
 🗣 Ask me about my RC Demo Day Project<br>
 💞️ <a href="https://hannahenoy.netlify.app" target="_blank">hannahenoy.netlify.app</a><br>
 📫 hannahenoy@gmail.com<br><br>
