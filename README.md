@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/G4oiARy.png" height="120"/>
 <br><br>
-🌱 I’m currently learning MVC and React<br>
+🌱 I’m currently learning React and Java<br>
 🗣 Ask me about my RC Demo Day Project<br>
 💞️ <a href="https://hannahenoy.netlify.app" target="_blank">hannahenoy.netlify.app</a><br>
 📫 hannahenoy@gmail.com<br><br>
